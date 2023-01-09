@@ -10,4 +10,4 @@ chrono = "0.4.19"
 chrono-tz = "0.6.1"
 rdkafka = { version = "0.28.0", features = ["ssl", "sasl"] }
 sasl2-sys = { version = "0.1.19", features = ["vendored"] }
-tokio = { version = "1.18.2", features = ["full"] }
+tokio = { version = "1.18.4", features = ["full"] }
